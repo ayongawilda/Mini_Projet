@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    background-color: rgb(226, 224, 226);
+}
+.liste{
+    text-align: center;
+    border: 5px solid rgb(58, 3, 59) ;
+    padding: 100px 20px;
+    margin: 100px 450px;
+    height: 300px;
+    border-radius: 12%;
+    background-image: url(douce2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.liste input{
+    height: 25px;
+    width: 200px;
+    font-weight: bold;
+   
+}
+.liste input:hover{
+    border: 3px solid rgb(58, 3, 59);
+   
+}
+
+
+.liste button{
+    height: 25px;
+    width: 100px;
+    font-weight: bold;
+   
+}
+.liste button:hover{
+    border: 3px solid rgb(58, 3, 59);
+   
+}
+.liste h2{
+    color: rgb(46, 6, 48)  ;
+    font-size: 40px;
+}
+
+.liste ul{
+    margin-left: 50px;
+    margin-top: 40px;
+    
+}
+
+.liste ul li{
+    font-weight: bold;
+    margin-right: 80px;
+    list-style-type: decimal;
+    width: 100px;
+     
+}
